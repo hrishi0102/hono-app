@@ -2,7 +2,7 @@ name = "hono-app"
 compatibility_date = "2023-12-01"
 
 [vars]
-DATABASE_URL=""
+DATABASE_URL="(Prisma_API_Key)"
 # MY_VAR = "my-variable"
 
 # [[kv_namespaces]]
