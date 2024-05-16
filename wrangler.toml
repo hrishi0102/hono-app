@@ -2,7 +2,7 @@ name = "hono-app"
 compatibility_date = "2023-12-01"
 
 [vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNWRlYjZiZDctYjg5Yi00ZWI0LTkyNTctZjg2MjliOGI5ODBkIiwidGVuYW50X2lkIjoiMDE5MTMwMzA3NmJmMzgyZmI4YmEwYTBjODJlMzZhMzU4NzQxNzFlNTkwMWQwMDJlOTlmMGRjZDBhODdiZTYwZiIsImludGVybmFsX3NlY3JldCI6Ijc1ODRmOGE1LWY4ZjAtNGE5My1iOGRjLWQyZjAyYmY4Nzk1MSJ9.kjKyKzy-qHODlPUZE_OQT_i3DA0csg1m8fAAhlimnKM"
+DATABASE_URL=""
 # MY_VAR = "my-variable"
 
 # [[kv_namespaces]]
