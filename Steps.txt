@@ -1,2 +1,12 @@
 1. npm create hono@latest my-app
 2. npm run deploy
+// Adding Database connection pool in prisma
+3. npm install --save-dev prisma
+4. npx prisma init
+//Signup at Prisma Accelerate
+5. https://console.prisma.io/login
+ (IMP) Replace Database URL with API key, Also add API Key to wrangler.toml
+6. npm install @prisma/extension-accelerate
+7. npx prisma generate --no-engine
+8. npm run dev 
+9. npm run deploy (to deploy to cloudfare workers)
